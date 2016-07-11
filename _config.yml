@@ -1,7 +1,7 @@
 name: DesignbyMC
 favicon: null
-layout_spectrum: 0.56996
-typography_spectrum: 0.44123
+layout_spectrum: 0
+typography_spectrum: 0.45056
 title: null
 cta:
   domain: null
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#e7b9a2'
-    - '#32332d'
-    - '#d09063'
-    - '#904c10'
+    - '#dfd2cb'
+    - '#494247'
+    - '#818285'
+    - '#282222'
   brandStrength: 0
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
