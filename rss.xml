@@ -4,7 +4,7 @@
         <description><![CDATA[DesignbyMC]]></description>
         <link>https://thegrid.ai/mc-design-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 22:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 22:10:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mc-design-group/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,17 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/00902b83279741a3fbac1cb0c3984137/croprotate.png?cropheight=1529&cropwidth=2632&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdc55f79e-0621-48d4-af83-8dd7cf5178e6.png&x=0&y=0" alt="" title="">]]></description>
+            <link>https://thegrid.ai/mc-design-group/kindred-spirit-magazine/index.html</link>
+            <guid isPermaLink="false">de8bb3d6-f7f4-4b7a-a70f-42af4366f53b</guid>
+            <pubDate>Mon, 11 Jul 2016 22:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de637e13-68d5-4acd-8c19-04f4a0a51a35.jpg">]]></description>
             <link>https://thegrid.ai/mc-design-group/typographic-poster/index.html</link>
             <guid isPermaLink="false">0b4fb139-0556-47cf-868f-1650180db1db</guid>
             <pubDate>Mon, 11 Jul 2016 22:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc55f79e-0621-48d4-af83-8dd7cf5178e6.png">]]></description>
-            <link>https://thegrid.ai/mc-design-group/kindred-spirit-magazine/index.html</link>
-            <guid isPermaLink="false">de8bb3d6-f7f4-4b7a-a70f-42af4366f53b</guid>
-            <pubDate>Mon, 11 Jul 2016 22:03:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
