@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Snapchat Community Geofilters
-datePublished: '2016-07-11T22:08:55.757Z'
-dateModified: '2016-07-11T22:08:55.368Z'
+datePublished: '2016-07-11T22:11:21.658Z'
+dateModified: '2016-07-11T22:09:06.058Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-11-snapchat-community-geofilters.md
@@ -24,3 +24,4 @@ Snapchat encourages artists and designers to create Geofilters for their communi
 
 My Fenway design was activated by Snapchat in July 2015 and my Newtown design was activated in May 2016\. Anyone with the app can use either of these filters when they are in the greater Fenway or Newtown areas respectively. In January of 2016 my Fenway geofilter was briefly featured on one of Snapchat's billboard advertisements in Boston.
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ee4688a997d6908b5a061a007fec22f7/croprotate.jpg?cropheight=9133&cropwidth=6136&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F243b01b1-e57d-4b15-be2e-09fdbfe373a6.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6f354fe-18ab-417d-8f77-ed225250ae27.jpg)
