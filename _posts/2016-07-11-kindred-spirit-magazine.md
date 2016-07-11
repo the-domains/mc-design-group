@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Kindred Spirit Magazine
-datePublished: '2016-07-11T22:10:13.638Z'
-dateModified: '2016-07-11T22:09:33.982Z'
+datePublished: '2016-07-11T22:11:18.449Z'
+dateModified: '2016-07-11T22:10:23.568Z'
 title: ''
 author:
   - name: ''
