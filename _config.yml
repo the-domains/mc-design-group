@@ -2,6 +2,7 @@ name: MC Design Group
 favicon: null
 layout_spectrum: 0.6817951
 typography_spectrum: 0.9266686
+title: null
 cta:
   domain: null
   bucket: null
