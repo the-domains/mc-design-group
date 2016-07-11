@@ -4,8 +4,15 @@
         <description><![CDATA[DesignbyMC]]></description>
         <link>https://thegrid.ai/mc-design-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 22:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 22:08:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mc-design-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e368f982-5403-4d79-b808-7cc1b78b67aa.jpg">]]></description>
+            <link>https://thegrid.ai/mc-design-group/snapchat-community-geofilters/index.html</link>
+            <guid isPermaLink="false">522316cb-b3e0-4693-afa0-a72adda178b7</guid>
+            <pubDate>Mon, 11 Jul 2016 22:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de637e13-68d5-4acd-8c19-04f4a0a51a35.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/mc-design-group/kindred-spirit-magazine/index.html</link>
             <guid isPermaLink="false">de8bb3d6-f7f4-4b7a-a70f-42af4366f53b</guid>
             <pubDate>Mon, 11 Jul 2016 22:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e368f982-5403-4d79-b808-7cc1b78b67aa.jpg">]]></description>
-            <link>https://thegrid.ai/mc-design-group/snapchat-community-geofilters/index.html</link>
-            <guid isPermaLink="false">522316cb-b3e0-4693-afa0-a72adda178b7</guid>
-            <pubDate>Mon, 11 Jul 2016 22:02:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
